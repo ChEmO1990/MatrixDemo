@@ -36,7 +36,7 @@ public class BaseActivity extends AppCompatActivity {
                 break;
 
             case R.id.action_docs:
-                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com.mx"));
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ChEmO1990/MatrixDemo"));
                 startActivity(browserIntent);
                 break;
         }

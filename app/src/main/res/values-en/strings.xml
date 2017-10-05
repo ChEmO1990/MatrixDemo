@@ -9,12 +9,4 @@
     <string name="title_3">Sample 3: (5X3 matrix with no path 50)</string>
     <string name="title_4">Sample 4: (1X5 matrix)</string>
     <string name="title_5">Sample 5: (5X1 matrix)</string>
-    <string name="title_6">Sample 6: (Non numeric input, Optional)</string>
-    <string name="title_7">Sample 7: (No input - Optional)</string>
-    <string name="title_8">Sample 8: (Starting with >50)</string>
-    <string name="title_9">Sample 9: (One value >50)</string>
-    <string name="title_10">Sample 10: (Negative values)</string>
-    <string name="title_11">Sample 11: Complete path vs. lower cost incomplete path</string>
-    <string name="title_12">Sample 12: Longer incomplete path vs. shorter lower cost incomplete path</string>
-    <string name="title_13">Sample 13: Large number of columns</string>
 </resources>
