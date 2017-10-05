@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MatrixDemo</string>
+    <string name="activity_matrix">Matrix</string>
+    <string name="text_input">Resultados</string>
+    <string name="text_item_1">Matrix dinámica</string>
+    <string name="text_item_2">Matrix estática</string>
+    <string name="popup_item_docs">Documentación</string>
+
+    <string name="title_1">Sample 1: (6X5 matrix normal flow)</string>
+    <string name="title_2">Sample 2: (6X5 matrix normal flow)</string>
+    <string name="title_3">Sample 3: (5X3 matrix with no path 50)</string>
+    <string name="title_4">Sample 4: (1X5 matrix)</string>
+    <string name="title_5">Sample 5: (5X1 matrix)</string>
+</resources>
